@@ -63,7 +63,14 @@ An in-depth analysis answering key questions, including:
     ```
 
 ## 📈 Dashboard / Visuals
-> *[Optional: Place a screenshot of one of your key charts from the analysis here]*
+<img width="1322" height="741" alt="Screenshot 2025-12-07 165414" src="https://github.com/user-attachments/assets/7272e4ce-242d-4c1d-9b0f-16a7fdc51943" />
+<img width="1315" height="736" alt="Screenshot 2025-12-07 164833" src="https://github.com/user-attachments/assets/21f31bb3-8514-4741-b46e-5be872a038ee" />
+<img width="1319" height="744" alt="Screenshot 2025-12-07 164851" src="https://github.com/user-attachments/assets/663751dc-6887-4ba6-92f8-9b5baa3145c4" />
+<img width="1314" height="742" alt="Screenshot 2025-12-07 164906" src="https://github.com/user-attachments/assets/fed78b1b-e06c-467a-9d3e-b61af005587f" />
+<img width="1231" height="636" alt="Screenshot 2025-12-07 165008" src="https://github.com/user-attachments/assets/8ef5d688-1add-4804-a474-02c2073310db" />
+
+
+
 
 ---
 **Author:** Mohamed Anwer
